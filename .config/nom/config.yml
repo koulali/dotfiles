@@ -1,0 +1,11 @@
+feeds:
+  - url: https://academic.oup.com/rss/site_5282/3148.xml
+    name: gji
+  - url: https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19448007&type=etoc&feed=rss
+    name: grl
+  - url: https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699356&type=etoc&feed=rss
+    name: jgr solid earth
+  - url: https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=15252027&type=etoc&feed=rss
+    name: gcubed
+  - url: https://rss.sciencedirect.com/publication/science/0012821X
+    name: epsl
